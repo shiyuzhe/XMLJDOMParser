@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\libs\jdom-2.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9f6909efb7121532c8dd5c2797ed35a5dddc120d">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\jdom-2.0.3_1044a94e86db3666defedf1ca899d25705fcce43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_bf05c6171fd0fd93ab2f560c520ac67d884ba1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_6cf7459b1ad1f1b2c8a2ff022cf53d3814f68169.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_69e0eb913576238139eea51f4dd73f764735012e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_6504341fa0d9921c8a6fc747dc32e9f54b334990.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_04130977ad8163e0db59ef7470f90e6fbeb78b6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\SoftWare\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_0df46c77ed2f0fa6876a929e2abb967d897c4d77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_7f3786d4da70d4047fb1ab0f5014c85b6e885f88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_f51dffc7a7e6eaf8b14b54aaab4a138708ff27a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_63c71b2eadedfd98609279491279192e939d9100.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\WorkSpace\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_494de82a0ce95699ab2cfbd01bc5c73f6833124e.jar" />
+    </item>
+
+</items>
